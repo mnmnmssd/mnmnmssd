@@ -1,16 +1,25 @@
-### Hi there 👋
+# wow is awesome！！
+```java
+class about {
 
-<!--
-**mnmnmssd/mnmnmssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  private String name;
+  private String sex;
+  
+  about(String name,String sex) {
+    this.name = name;
+    this.sex = sex;
+  }
+  
+  public static void main(String[] args) {
+    new about("笑的心酸","男");  
+    // or
+    new about("mnmnmssd","boy");
+  }
+  
+}
+```
+## ...努力苦学java的小伙子...
+### 当然还有其他语言(包括但不限于C、python、JavaScript...)
+[我的博客](https://blog.xinsuan.xyz)
+#### 来看看我的`repository`吧 , **我将努力充实它**
+#### --------------------------------👇 👇 👇 ---------------------------------------
