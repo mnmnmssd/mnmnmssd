@@ -18,6 +18,8 @@ class about {
   
 }
 ```
+![mnmnmssd](https://count.getloli.com/get/@mnmnmssd)
+
 ## ...努力苦学java的小伙子...
 ### 当然还有其他语言(包括但不限于C、python、JavaScript...)
 [我的博客](https://blog.xinsuan.xyz)
