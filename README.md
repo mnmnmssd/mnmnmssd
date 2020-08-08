@@ -18,7 +18,7 @@ class about {
   
 }
 ```
-![mnmnmssd](https://count.getloli.com/get/@mnmnmssd)
+![mnmnmssd](https://count.getloli.com/get/@mnmnmssd?theme=rule34)
 
 ## ...努力苦学java的小伙子...
 ### 当然还有其他语言(包括但不限于C、python、JavaScript...)
