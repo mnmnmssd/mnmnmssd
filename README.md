@@ -20,8 +20,8 @@ class about {
 ```
 ![mnmnmssd](https://count.getloli.com/get/@mnmnmssd?theme=rule34)
 
-https://stats.justsong.cn/api/zhihu?username=excited-vczh
-https://stats.justsong.cn/api/bilibili/?id=666
+![zhihu](https://stats.justsong.cn/api/zhihu?username=mnmnmssd)
+![bilibili](https://stats.justsong.cn/api/bilibili/?id=3803911)
 
 ## ...努力苦学java的小伙子...
 ### 当然还有其他语言(包括但不限于C、python、JavaScript...)
