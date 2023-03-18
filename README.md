@@ -18,8 +18,6 @@ class about {
   
 }
 ```
-![mnmnmssd](https://count.getloli.com/get/@mnmnmssd?theme=rule34)
-
 ![zhihu](https://stats.justsong.cn/api/zhihu?username=mnmnmssd)
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=3803911)
 
